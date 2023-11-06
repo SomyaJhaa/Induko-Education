@@ -743,9 +743,9 @@ form#commant_form div.field textarea.custom_field {
     float: left;
     width: 50%;
     font-size: 20px;
-    font-weight: 300;
+    font-weight: 200;
     color: #000;
-    line-height: 60px;
+    line-height: 50px;
 }
 
 .theme_color_text {
